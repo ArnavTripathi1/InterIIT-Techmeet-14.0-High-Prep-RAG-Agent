@@ -1,0 +1,8 @@
+1. Age: Borrowers must be between 21 and 65 years old.
+2. Income: Minimum monthly income requirement varies by loan type.
+   - Personal loan: 25,000 INR
+   - Home loan: 50,000 INR
+   - Business loan: 75,000 INR
+3. Credit Score: Minimum credit score of 650 for personal and home loans, 700 for business loans.
+4. Employment: Must have stable employment or business income for at least 2 years.
+5. Existing Debts: Total EMI obligations must not exceed 50% of monthly income.
