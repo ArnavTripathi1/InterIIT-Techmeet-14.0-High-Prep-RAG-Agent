@@ -1,0 +1,8 @@
+langchain
+langchain-google-genai
+google-generativeai
+faiss-cpu
+pandas
+python-dotenv
+PyPDF2
+tiktoken
